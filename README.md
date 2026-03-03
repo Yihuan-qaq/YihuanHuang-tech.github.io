@@ -2,7 +2,7 @@
   🌐 语言选择：<strong>简体中文</strong> | <a href="docs/en/README.md">English</a>
 </p>
 
-# 🚀 JunXue-tech 个人主页项目
+# 🚀 Yihuan Huang-tech 个人主页项目
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-success)
 
